@@ -1,5 +1,5 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--p:#111111;--a:#f59e0b;--f:'Syne',system-ui,sans-serif;--r:0px}
+:root{--p:#111111;--a:#f59e0b;--f:'Playfair Display',system-ui,sans-serif;--r:8px}
 html{scroll-behavior:smooth}body{font-family:var(--f);color:#111;line-height:1.65;background:#fff;-webkit-font-smoothing:antialiased}
 a{color:var(--p);text-decoration:none}a:hover{text-decoration:underline}
 .fade-block{opacity:0;transform:translateY(20px);transition:opacity .6s,transform .6s}.fade-block.visible{opacity:1;transform:none}
